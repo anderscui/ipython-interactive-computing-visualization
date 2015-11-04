@@ -3,7 +3,7 @@
 
 这本“书”主要是《Learning IPython for Interactive Computing and Data Visualization》一书的读书笔记。
 
-在Python做数据类开发前，尝试过R。RStudio的那种一体化开发环境，让人特别舒服，尽管R没有Python那么通用，
+在Python做数据类开发前，尝试过R。RStudio的那种一体化开发环境，让人特别舒服。尽管R没有Python那么通用，RStudio比起PyCharm来也差很多，然后就RStudio专注的那类事情而言，它无疑是足够好用的。
 
 
 
