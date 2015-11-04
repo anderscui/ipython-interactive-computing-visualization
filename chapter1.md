@@ -2,7 +2,24 @@
 
 ## 安装
 
-[IPython](http://ipython.org/)的结构已经在《Learning IPython》之后发生了很大的变化（从IPython4.0开始），
+**注意**：[IPython](http://ipython.org/)的结构已经在《Learning IPython》之后发生了很大的变化（从IPython4.0开始）。
+
+一般来说，安装IPython有10种方式，1种是不需要折腾的，1种是需要折腾的。对于不愿意折腾的同学来说，可选择使用一些all-in-one发布包来安装，比较推荐[Anaconda](http://continuum.io/downloads)。对于那些想折腾的人来说，我就不说什么了，自己折腾去吧。
+
+【回来】发布包的问题是，我们拿到的不仅是需要的库，还有另一些不需要的，对于对Python较熟悉的同学来说，按需安装会更合适。这里仅列出若干重要的库，至于具体安装步骤，不再赘述：
+
+* IPython
+* NumPy：提供的多维数组可进行高性能和向量运算
+* SciPy：高级数值算法
+* Matplotlib：绘图和可视化
+* Matplotlib-basemap：a mapping toolbox for Matplotlib
+* Pandas：处理表格化（tabular）数据
+* NetworkX：处理图表
+* Python Imaging Library（PIL）：图像处理算法
+* PySide/PyQt：GUI库
+* Cython：在Python中使用C
+* 
+
 
 
 ## 推荐包
