@@ -18,9 +18,8 @@
 * Python Imaging Library（PIL）：图像处理算法
 * PySide/PyQt：GUI库
 * Cython：在Python中使用C
-* 
 
-
+除了从源代码安装，还可以考虑使用安装包。有些安装文件可从PyPI获取官方版本，有时需要下载非官方安装包，Windows下建议看看由[Christoph Gohlke维护的页面](www.lfd.uci.edu/~gohlke/pythonlibs/)。
 
 ## 推荐包
 
