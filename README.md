@@ -7,4 +7,4 @@
 
 现在考虑的是以IPython（Notebook）、Spyder基础，尝试建立一个更精简有效的开发环境，于是想记下这些东西。
 
-较之于系统自带的命令行，IPython提供了一个改进了很多的console，以及Notebook。更重要的是，IPython可以与其它工具结合使用，如NumPy、Matplotlib，构成一个兼具高性能科学计算和交互式可视化的工具链，当然，IPython是其中的基石。
+IPython提供了一个较默认Python控制台强大得多的Python控制台和IPython Notebook。更重要的是，IPython可以与其它工具结合使用，如NumPy、Matplotlib，构成一个兼具高性能科学计算和交互式可视化的工具链，当然，IPython是其中的基石。
