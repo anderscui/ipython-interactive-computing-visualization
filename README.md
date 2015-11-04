@@ -7,7 +7,3 @@
 
 现在考虑的是以IPython（Notebook）、Spyder基础，尝试建立一个更精简有效的开发环境，于是想写这些东西。
 
-
-When $$a \ne 0$$, there are two solutions to $$(ax^2 + bx + c = 0)$$ and they are
-$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
-
