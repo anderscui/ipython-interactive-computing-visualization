@@ -26,7 +26,10 @@
 
 最后，不管你是否喜欢折腾，了解pip的用法都是必须的。
 
-## IPython简要
+## IPython的10个重要特性
+
+1. 运行IPython作为Python控制台：在terminal运行ipython
+2. 
 
 
 
