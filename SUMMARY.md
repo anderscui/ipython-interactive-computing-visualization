@@ -4,7 +4,7 @@
 * [第一章 入门](chapter1.md)
 * [第二章 交互式计算](chapter2.md)
 * [第三章 数值计算](chapter3.md)
-* 第四章 交互式绘图
+* [第四章 交互式绘图](chapter4.md)
 * 第五章 高性能与并行运算
 * 第六章 自定义IPython
 
