@@ -1,7 +1,9 @@
 写在前面
 =======
 
-这本“书”主要是《Learning IPython for Interactive Computing and Data Visualization》一书的读书笔记。至于为何要读这本书，是因为
+这本“书”主要是《Learning IPython for Interactive Computing and Data Visualization》一书的读书笔记。
+
+在Python做数据类开发前，尝试过R。RStudio的那种一体化开发环境，让人特别舒服，尽管R没有Python那么通用，
 
 
 
