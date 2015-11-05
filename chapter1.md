@@ -32,7 +32,11 @@
 
 在terminal或console中运行ipython即可。IPython内置了数十个命令，可以大大提高生产力。比如当你不确定super函数的用法时，可使用```super?```来查看它的帮助文档。
 
+### 2. 作为系统shell使用
 
+IPython不仅可作为Python控制台的替代物，更可作为系统shell的替代物。所有系统shell中的命令都可在IPython中使用，如pwd、ls、cd等。
+
+IPython亦提供了一系列的**魔法方法**，完整的魔法方法列表可通过%lsmagic命令查看。
 
 
 
