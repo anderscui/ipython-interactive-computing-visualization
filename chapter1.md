@@ -28,8 +28,11 @@
 
 ## IPython的10个重要特性
 
-1. 运行IPython作为Python控制台：在terminal运行ipython
-2. 
+### 1. 作为Python控制台使用
+
+在terminal或console中运行ipython即可。IPython内置了数十个命令，可以大大提高生产力。比如当你不确定super函数的用法时，可使用```super?```来查看它的帮助文档。
+
+
 
 
 
