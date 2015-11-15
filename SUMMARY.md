@@ -10,6 +10,7 @@
    * [更高级的数学处理算法](3.4.advanced_mathematical_processing.md)
    * [小结](3.5.summary.md)
 * [第四章 交互式绘图](chapter4.md)
+   * 使用Matplotlib绘图
 * [第五章 高性能与并行运算](chapter5.md)
 * [第六章 自定义IPython](chapter6.md)
 
