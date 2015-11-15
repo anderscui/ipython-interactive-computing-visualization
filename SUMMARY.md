@@ -12,6 +12,7 @@
 * [第四章 交互式绘图](chapter4.md)
    * [使用Matplotlib绘图](4.1.figures_with_matplotlib.md)
    * [高级绘图](4.2.advanced_figures_and_graphics.md)
+   * GUI
 * [第五章 高性能与并行运算](chapter5.md)
 * [第六章 自定义IPython](chapter6.md)
 
