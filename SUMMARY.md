@@ -9,7 +9,7 @@
    * [数组基本操作](3.3.working_with_arrays.md)
    * [更高级的数学处理算法](3.4.advanced_mathematical_processing.md)
    * [小结](3.5.summary.md)
-* [第四章 交互式绘图和GUI](chapter4.md)
+* [第四章 交互式绘图和GUI](4.chapter4.md)
    * [使用Matplotlib绘图](4.1.figures_with_matplotlib.md)
    * [高级绘图](4.2.advanced_figures_and_graphics.md)
    * [图形用户界面（GUI）](4.3.gui.md)
