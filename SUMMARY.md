@@ -7,6 +7,7 @@
    * 增强的Shell功能
    * 增强的Python控制台功能
    * IPython Notebook
+   * 小结
 * [第三章 数值计算](3.0.chapter.md)
    * [向量运算入门](3.1.a_primer_to_vector_computing.md)
    * [创建与加载数组](3.2.creating_and_loading_arrays.md)
