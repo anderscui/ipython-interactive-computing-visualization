@@ -3,7 +3,7 @@
 * [写在前面](README.md)
 * [第一章 入门](1.0.chapter1.md)
 * [第二章 交互式计算](2.0.chapter.md)
-* [第三章 数值计算](chapter3.md)
+* [第三章 数值计算](3.0.chapter.md)
    * [向量运算入门](3.1.a_primer_to_vector_computing.md)
    * [创建与加载数组](3.2.creating_and_loading_arrays.md)
    * [数组基本操作](3.3.working_with_arrays.md)
