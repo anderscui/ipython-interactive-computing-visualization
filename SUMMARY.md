@@ -5,6 +5,7 @@
    * [Anaconda简介](1.1.intro_to_anaconda.md)
 * [第二章 交互式计算](2.0.chapter.md)
    * 增强的Shell功能
+   * 增强的Python控制台功能
 * [第三章 数值计算](3.0.chapter.md)
    * [向量运算入门](3.1.a_primer_to_vector_computing.md)
    * [创建与加载数组](3.2.creating_and_loading_arrays.md)
