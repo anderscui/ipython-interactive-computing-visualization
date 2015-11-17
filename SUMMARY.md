@@ -6,7 +6,7 @@
 * [第二章 交互式计算](2.0.chapter.md)
    * [增强的Shell功能](2.1.extended_shell.md)
    * [增强的Python控制台功能](2.2.extended_python_console.md)
-   * IPython Notebook
+   * [IPython Notebook](2.3.ipython_notebook.md)
    * 小结
 * [第三章 数值计算](3.0.chapter.md)
    * [向量运算入门](3.1.a_primer_to_vector_computing.md)
