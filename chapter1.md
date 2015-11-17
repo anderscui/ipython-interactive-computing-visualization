@@ -72,6 +72,8 @@ Notebook把IPython的功能带到了浏览器中，神奇不？使用```ipython 
 
 ### 10. 自定义IPython
 
-
+可以把个人偏好信息保存在一个Python文件中，这个文件称为IPython的profile文件。使用```ipython profile create```可创建默认profile。通过指定名字可创建其它不同的profile，然后在打开ipython是通过```--profile=profilename```来加载特定的profile文件。
 
 ## 小结
+
+本章介绍了安装IPython的各种方式，然后列出了IPython的10个最有趣的特性。下一章将详细讨论IPython提供的交互式shell、Python控制台和Notebook。
