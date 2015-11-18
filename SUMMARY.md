@@ -3,6 +3,7 @@
 * [写在前面](README.md)
 * [第一章 入门](1.0.chapter.md)
    * [Anaconda简介](1.1.intro_to_anaconda.md)
+   * Spyder简介
 * [第二章 交互式计算](2.0.chapter.md)
    * [作为增强的Shell](2.1.extended_shell.md)
    * [作为增强的Python控制台](2.2.extended_python_console.md)
