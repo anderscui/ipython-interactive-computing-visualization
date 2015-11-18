@@ -4,7 +4,7 @@
 * [第一章 入门](1.0.chapter.md)
    * [Anaconda简介](1.1.intro_to_anaconda.md)
 * [第二章 交互式计算](2.0.chapter.md)
-   * [增强的Shell功能](2.1.extended_shell.md)
+   * [作为增强的Shell](2.1.extended_shell.md)
    * [增强的Python控制台功能](2.2.extended_python_console.md)
    * [IPython Notebook](2.3.ipython_notebook.md)
    * [小结](2.4.summary.md)
