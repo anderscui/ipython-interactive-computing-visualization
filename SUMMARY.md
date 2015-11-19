@@ -21,6 +21,6 @@
    * [图形用户界面（GUI）](4.3.gui.md)
    * [小结](4.4.summary.md)
 * [第五章 高性能与并行计算](5.0.chapter.md)
-   * 任务并行
+   * [并行任务](5.1.task_parallelization.md)
 * [第六章 自定义IPython](6.0.chapter.md)
 
