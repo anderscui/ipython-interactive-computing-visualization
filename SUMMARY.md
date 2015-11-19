@@ -27,5 +27,5 @@
 * [第六章 自定义IPython](ch06/6.0.customizing_ipython.md)
    * [IPython profile](ch06/6.1.ipython_profile.md)
    * [IPython扩展](ch06/6.2.ipython_extensions.md)
-   * 嵌入IPython
+   * [嵌入IPython](ch06/6.3.embedding_ipython.md)
 
