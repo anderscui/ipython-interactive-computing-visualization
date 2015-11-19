@@ -28,5 +28,5 @@
    * [IPython profile](ch06/6.1.ipython_profile.md)
    * [IPython扩展](ch06/6.2.ipython_extensions.md)
    * [嵌入IPython](ch06/6.3.embedding_ipython.md)
-   * 小结
+   * [小结](ch06/summary.md)
 
