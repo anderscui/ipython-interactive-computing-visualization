@@ -20,7 +20,7 @@
    * [高级绘图](4.2.advanced_figures_and_graphics.md)
    * [图形用户界面（GUI）](4.3.gui.md)
    * [小结](4.4.summary.md)
-* [第五章 高性能与并行计算](5.0.chapter.md)
+* [第五章 高性能与并行计算](ch05/5.0.chapter.md)
    * [并行任务](ch05/5.1.task_parallelization.md)
 * [第六章 自定义IPython](6.0.chapter.md)
 
