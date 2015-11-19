@@ -26,4 +26,5 @@
    * [小结](ch05/5.3.summary.md)
 * [第六章 自定义IPython](ch06/6.0.customizing_ipython.md)
    * [IPython profile](ch06/6.1.ipython_profile.md)
+   * IPython扩展
 
