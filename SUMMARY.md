@@ -24,4 +24,5 @@
    * [并行任务](ch05/5.1.task_parallelization.md)
    * [在IPython中使用C](ch05/5.2.using_c_in_ipython.md)
    * [小结](ch05/5.3.summary.md)
+* 第六章 自定义IPython
 
