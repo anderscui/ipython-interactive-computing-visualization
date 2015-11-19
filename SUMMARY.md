@@ -25,4 +25,5 @@
    * [在IPython中使用C](ch05/5.2.using_c_in_ipython.md)
    * [小结](ch05/5.3.summary.md)
 * [第六章 自定义IPython](ch06/6.0.customizing_ipython.md)
+   * IPython profile
 
