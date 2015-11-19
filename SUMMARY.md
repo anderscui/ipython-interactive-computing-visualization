@@ -22,6 +22,6 @@
    * [小结](4.4.summary.md)
 * [第五章 高性能与并行计算](ch05/5.0.chapter.md)
    * [并行任务](ch05/5.1.task_parallelization.md)
-   * 在IPython中使用C
+   * [在IPython中使用C](ch05/using_c_in_ipython.md)
 * [第六章 自定义IPython](6.0.chapter.md)
 
